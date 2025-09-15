@@ -124,8 +124,8 @@ background_url = "https://your-uploaded-image-link.com/image.png"
 
 ## 👨‍💻 Author
 
-**Sudhakar Govindasamy**  
+**GOBINATH B**  
 
-💻 GitHub: [sudhakargovindasamy](https://github.com/sudhakargovindasamy)  
-🔗 LinkedIn: [Sudhakar](https://www.linkedin.com/in/sudhakargovindasamy)
+💻 GitHub: [GOBINATH B](https://github.com/sudhakargovindasamy)  
+🔗 LinkedIn: [GOBINATH B](https:www.linkedin.com/in/gobinath-b-08a596326)
 
